@@ -1,3 +1,3 @@
 # hellow-world
-my first repository
+my first remote repository
 yalalala
